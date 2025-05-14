@@ -109,7 +109,7 @@ class CounterView extends StatefulWidget { ... }
 
 ## Auteur
 
-**Ton Nom** – [kepya](https://github.com/kepya)  
+**Nom** – [kepya](https://github.com/kepya)  
 Fait dans le cadre de la vulgarisation des concepts de test en Flutter.
 
 ---
